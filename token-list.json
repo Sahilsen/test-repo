@@ -1,0 +1,23 @@
+{
+    "name": "MY New List",
+    "timestamp": "2024-04-08T10:40:00.000Z",
+    "version": {
+        "major": 15,
+        "minor": 1,
+        "patch": 0
+    },
+    "logoURI": "https://fusionx.finance/logo.png",
+    "keywords": [
+        "fusionx",
+        "extended"
+    ],
+    "tokens": [
+        {
+            "name": "My Token",
+            "symbol": "MTK",
+            "address": "0xDCcD6F3a0eAf5Bf1028c57B72224A38537b19974",
+            "chainId": 5003,
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/fusionx-finance/tokens/main/images/5003/0xc92747b1e4bd5f89bbb66bae657268a5f4c4850c.png"
+        }
+    ]
